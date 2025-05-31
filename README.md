@@ -25,3 +25,12 @@ If you use this project in your research, please cite it as follows:
   howpublished = {\url{https://github.com/Shepard2154/ModelDrift-Experiment}},
   license = {Apache-2.0},
 }
+```
+
+### 📊 Model Drift Visualization
+
+**Наглядный результат обнаружения дрифта:**  
+
+*Query: Are COVID vaccines safe?*
+
+![Model Drift Detection Results](drift.png)
